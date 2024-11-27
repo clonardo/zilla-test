@@ -21,6 +21,7 @@ My docker-compose is working fine for everything else on my machine.
 ## Things I Have Tried
 - I have been running `docker-compose up -d` to attempt to bring up the environment. Between tweaking things and trying to make it work, I experimented with clearing + pruning all Docker resources, and still have had no success
 - I have tried this from Powershell as well as the wsl Ubuntu shell (with Docker pass-through), and see the same errors every time.
+- I have tried working through a number of other Kafka and RedPanda + Zilla examples. Alas, no joy
 
 ## To Attempt to Reproduce the Issue
 - Clone this repo
